@@ -22,8 +22,8 @@ android {
         applicationId = "com.example.waller"
         minSdk = 30
         targetSdk = 36
-        versionCode = 7
-        versionName = "3.3-beta"
+        versionCode = 8
+        versionName = "3.3"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
 
